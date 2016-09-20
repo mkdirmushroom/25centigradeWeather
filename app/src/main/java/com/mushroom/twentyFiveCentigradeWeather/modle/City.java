@@ -1,4 +1,4 @@
-package modle;
+package com.mushroom.twentyFiveCentigradeWeather.modle;
 
 /**
  * Created by wmm on 2016/9/18.

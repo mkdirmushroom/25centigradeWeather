@@ -1,4 +1,4 @@
-package com.mushroom.a25centigradeweather;
+package com.mushroom.twentyFiveCentigradeWeather;
 
 import org.junit.Test;
 

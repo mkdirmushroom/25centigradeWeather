@@ -1,4 +1,4 @@
-package db;
+package com.mushroom.twentyFiveCentigradeWeather.db;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

@@ -1,4 +1,4 @@
-package modle;
+package com.mushroom.twentyFiveCentigradeWeather.modle;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteDatabase;
 import java.util.ArrayList;
 import java.util.List;
 
-import db.WeatherOpenHelper;
+import com.mushroom.twentyFiveCentigradeWeather.db.WeatherOpenHelper;
 
 /**
  * Created by wmm on 2016/9/18.
